@@ -1,0 +1,20 @@
+.Search-Bar {
+    margin: 20px;
+    vertical-align: middle;
+    align-self: center;
+    align-content: center;
+}
+
+.Card {
+    width: 90%;
+    margin-top: 25px;
+    padding: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Grid-cont {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    row-gap: 8px;
+    column-gap: 0px;
+}

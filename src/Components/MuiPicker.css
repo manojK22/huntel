@@ -1,0 +1,19 @@
+.Card {
+    width: 90%;
+    margin-top: 25px;
+    padding: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Grid-cont {
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px;
+    row-gap: 10px;
+    column-gap: 10px;
+}
+
+.new-row {
+    grid-column-start: 1;
+  }
+
